@@ -5,6 +5,7 @@ import unittest
 vowels: list[str] = ["a", "e", "i", "o", "u"]
 
 
+# Weekly Challenge June 11, 2024
 # How Many Vowels?
 # Create a function that takes a string and returns the number (count) of vowels in the string.
 #
