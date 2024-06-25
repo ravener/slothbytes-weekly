@@ -24,7 +24,7 @@ def move(word: str) -> str:
 
 
 class MoveTest(unittest.TestCase):
-    def testMove(self) -> None:
+    def test_move(self) -> None:
         self.assertEqual(move("hello"), "ifmmp")
         self.assertEqual(move("bye"), "czf")
         self.assertEqual(move("welcome"), "xfmdpnf")
