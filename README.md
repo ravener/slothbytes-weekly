@@ -9,3 +9,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [June 11, 2024 - How Many Vowels?](challenges/count_vowels.py)
 - [June 18, 2024 - Change Every Letter to the Next Letter](challenges/move.py)
 - [June 25, 2024 - Making a box](challenges/make_box.py)
+- [July 2, 2024 - Binary Search Practice](challenges/find_first_occurrence.py)
