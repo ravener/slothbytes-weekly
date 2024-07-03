@@ -3,6 +3,7 @@
 import unittest
 
 
+# Weekly Challenge July 2, 2024
 # Binary Search Practice
 # Given a sorted array of integers and a target integer, find the first occurrence of the target and return its index.
 # Return -1 if the target is not in the array.
