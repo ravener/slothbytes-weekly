@@ -15,6 +15,13 @@ T = TypeVar("T", int, str)
 # Notes
 # The sub lists should be returned in the order of each element's first appearance in the given list.
 def advanced_sort(arr: list[T]) -> list[list[T]]:
+    """
+    Returns a list with the items of the original list stored into sub lists.
+    Items of the same value should be in the same sub list.
+
+    :param arr: List of numbers or strings.
+    :returns: A list with the items from the original list stored into sub lists.
+    """
     results: list[list[T]] = []
     cache: dict[T, int] = {}
 
