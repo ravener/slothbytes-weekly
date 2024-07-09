@@ -3,10 +3,10 @@
 import unittest
 from typing import TypeVar
 
-T = TypeVar("T", int, str)
+T = TypeVar("T", int, str, int | str)
 
 
-# Weekly Challenge July 10, 2024
+# Weekly Challenge July 9, 2024
 # Advanced List Sort
 # Create a function that takes a list of numbers or strings and
 # returns a list with the items from the original list stored into sub lists.
