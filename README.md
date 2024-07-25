@@ -12,3 +12,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [June 25, 2024 - Making a box](challenges/make_box.py)
 - [July 2, 2024 - Binary Search Practice](challenges/find_first_occurrence.py)
 - [July 9, 2024 - Advanced List Sort](challenges/advanced_sort.py)
+- [July 23, 2024 - Check If It's a Title String](challenges/check_title.py)
