@@ -14,3 +14,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [July 9, 2024 - Advanced List Sort](challenges/advanced_sort.py)
 - [July 23, 2024 - Check If It's a Title String](challenges/check_title.py)
 - [July 30, 2024 - Sort by the Letters](challenges/sort_by_letter.py)
+- [August 6, 2024 - Count the Smiley Faces :)](challenges/count_smileys.py)
