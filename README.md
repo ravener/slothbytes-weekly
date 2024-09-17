@@ -20,3 +20,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [August 13, 2024 - Where’s Waldo](challenges/where_is_waldo.py)
 - [August 20, 2024 - Nearest Vowel](challenges/nearest_vowel.py)
 - [August 27, 2024 - Loves me, Loves me not…](challenges/loves_me.py)
+- [September 17, 2024 - Convenience Store](challenges/change_enough.py)
