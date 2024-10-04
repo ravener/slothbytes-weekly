@@ -22,3 +22,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [August 27, 2024 - Loves me, Loves me not…](challenges/loves_me.py)
 - [September 17, 2024 - Convenience Store](challenges/change_enough.py)
 - [September 24, 2024 - Video Length in Seconds](challenges/minutes_to_seconds.py)
+- [October 1, 2024 - How Much is True?](challenges/count_true.py)
