@@ -24,3 +24,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [September 24, 2024 - Video Length in Seconds](challenges/minutes_to_seconds.py)
 - [October 1, 2024 - How Much is True?](challenges/count_true.py)
 - [October 8, 2024 - pigLatin](challenges/pig_latin.py)
+- [October 14, 2024 - Ping Pong!](challenges/ping_pong.py)
