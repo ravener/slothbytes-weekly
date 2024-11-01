@@ -25,3 +25,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [October 1, 2024 - How Much is True?](challenges/count_true.py)
 - [October 8, 2024 - pigLatin](challenges/pig_latin.py)
 - [October 14, 2024 - Ping Pong!](challenges/ping_pong.py)
+- [October 22, 2024 - Simon Says](challenges/simon_says.py)
