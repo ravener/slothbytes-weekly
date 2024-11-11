@@ -27,3 +27,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [October 14, 2024 - Ping Pong!](challenges/ping_pong.py)
 - [October 22, 2024 - Simon Says](challenges/simon_says.py)
 - [October 29, 2024 - Numbers to English](challenges/numbers_to_english.py)
+- [November 5, 2024 - Ctrl + C, Ctrl + V](challenges/keyboard_shortcut.py)
