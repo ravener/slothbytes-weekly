@@ -29,3 +29,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [October 29, 2024 - Numbers to English](challenges/numbers_to_english.py)
 - [November 5, 2024 - Ctrl + C, Ctrl + V](challenges/keyboard_shortcut.py)
 - [November 12, 2024 - 12 vs 24 Hours](challenges/convert_time.py)
+- [November 19, 2024 - Valid JavaScript Comments](challenges/comments_correct.py)
