@@ -30,3 +30,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [November 5, 2024 - Ctrl + C, Ctrl + V](challenges/keyboard_shortcut.py)
 - [November 12, 2024 - 12 vs 24 Hours](challenges/convert_time.py)
 - [November 19, 2024 - Valid JavaScript Comments](challenges/comments_correct.py)
+- [November 26, 2024 - Splitting Up Numbers](challenges/num_split.py)
