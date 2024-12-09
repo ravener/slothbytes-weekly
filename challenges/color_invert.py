@@ -16,7 +16,7 @@ def color_invert(color: list[int]) -> list[int]:
     returns a new list with the inverted channels.
     """
     assert len(color) == 3
-    return [255 - color[0], 255 - color[1], 255 - color[2]]
+    return [255 - channel for channel in color]
 
 
 class ColorInvertTest(unittest.TestCase):
