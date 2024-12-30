@@ -32,3 +32,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [November 19, 2024 - Valid JavaScript Comments](challenges/comments_correct.py)
 - [November 26, 2024 - Splitting Up Numbers](challenges/num_split.py)
 - [December 3, 2024 - Invert Colors](challenges/color_invert.py)
+- [December 10, 2024 - Is the Phone Number Formatted Correctly?](challenges/is_valid_phone_number.py)
