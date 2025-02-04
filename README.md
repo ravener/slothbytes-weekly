@@ -37,3 +37,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 
 **2025**
 - [January 14, 2025 - Censor Words Longer Than Four Characters](challenges/2025/censor.py)
+- [January 28, 2025 - Amateur Hour](challenges/2025/hours_passed.py)
