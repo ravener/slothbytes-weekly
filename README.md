@@ -41,3 +41,4 @@ They are pretty simple but are still a fun exercise to do, so I decided to keep 
 - [February 4, 2025 - Rhyme Time](challenges/2025/does_rhyme.py)
 - [February 11, 2025 - Remove the Computer Virus](challenges/2025/remove_virus.py)
 - [February 18, 2025 - Phone Number Formatting](challenges/2025/format_phone_number.py)
+- [March 11, 2025 - Hidden Calculator Words](challenges/2025/turn_calc.py) 
